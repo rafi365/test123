@@ -1,0 +1,44 @@
+[
+	{
+		"name": {
+			"content":"Thomas Airell",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/thomas.jpg",
+			"type":"imageSrc"
+		},
+		"job": {
+			"content":"Programmer",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"Airell Thomas",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/thomas.jpg",
+			"type":"imageSrc"
+		},
+		"job": {
+			"content":"Web Designer",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"Lleria Samoht",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/thomas.jpg",
+			"type":"imageSrc"
+		},
+		"job": {
+			"content":"UI/UX Designer",
+			"type":"innerHTML"
+		}
+	}
+]

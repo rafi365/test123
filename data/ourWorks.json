@@ -1,0 +1,44 @@
+[
+	{
+		"title": {
+			"content":"Vespa",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/result1.jpg",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"Vespa vespa vespa~ Go go go~",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"title": {
+			"content":"Absolut Vodka",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/result2.jpg",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"Vodka vodka vodka~ Potato potato potato~",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"title": {
+			"content":"Casio",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/result3.jpg",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"Watch watch watch~ Time time time~",
+			"type":"innerHTML"
+		}
+	}
+]

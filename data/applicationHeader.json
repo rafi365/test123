@@ -1,0 +1,14 @@
+{
+	"name": {
+		"content":"Photo Phoo",
+		"type":"innerHTML"
+	},
+	"desc": {
+		"content":"You don't take a photograph, you make it!",
+		"type":"innerHTML"
+	},
+	"image": {
+		"content":"images/photophoo.jpg",
+		"type":"styleBackground"
+	}
+}

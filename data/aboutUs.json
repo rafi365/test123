@@ -1,0 +1,34 @@
+{
+	"title-1": {
+		"content":"What is Photo Phoo?",
+		"type":"innerHTML"
+	},
+	"subtitle-1": {
+		"content":"You don't take a photograph, you make it!",
+		"type":"innerHTML"
+	},
+	"desc-1": {
+		"content": "Lorizzle ipsizzle dolizzle doggy amet, fizzle adipiscing elit. Nullizzle sapizzle velizzle, shiznit you son of a bizzle, suscipit quis, gravida vizzle, arcu. Pellentesque shizzlin dizzle tortizzle. Sizzle erizzle. Fusce izzle dolizzle pimpin' turpis tempizzle gangsta. Maurizzle pellentesque nibh et turpis. That's the shizzle izzle tortizzle. Pellentesque pot we gonna chung doggy. In hac tellivizzle platea dictumst. Nizzle suscipizzle. Integizzle sempizzle shizznit get down get down ghetto.",
+		"type":"innerHTML"
+	},
+	"image-1":{
+		"content":"images/photography1.jpg",
+		"type":"imageSrc"
+	},
+	"title-2": {
+		"content":"Why Photo Phoo?",
+		"type":"innerHTML"
+	},
+	"subtitle-2": {
+		"content":"Photo Phoo is da Best!",
+		"type":"innerHTML"
+	},
+	"desc-2": {
+		"content":"Polaroid franzen church-key succulents, narwhal subway tile flexitarian ethical. Organic vexillologist pok pok brunch, man braid pork belly sriracha vape YOLO humblebrag normcore vinyl hexagon iceland semiotics. Lomo austin viral chambray meditation shabby chic. Ugh gochujang green juice, leggings locavore irony fap post-ironic affogato pork belly polaroid bushwick pok pok vice.",
+		"type":"innerHTML"
+	},
+	"image-2":{
+		"content":"images/photography2.jpg",
+		"type":"imageSrc"
+	}
+}

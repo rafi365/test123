@@ -1,0 +1,86 @@
+[
+	{
+		"name": {
+			"content":"Adventure Inc.",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/companyLogo/adventure.png",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"Adventure Inc is a young dynamic company providing premium equipment to niche outdoor and sports enthusiasts in South Africa; a company continuously in search of new products which will enable you to pursue your passion.",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"Buildomo",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/companyLogo/buildomo.png",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"Buildomo is a company that providing premium website to startup company",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"COOP",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/companyLogo/coop.png",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"A co-op is a group of people acting together to meet the common needs and aspirations of its members, sharing ownership and making decisions democratically. Co-ops are not about making big profits for shareholders, but creating value for customers – this is what gives co-operatives a unique character, and influences our values and principles.",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"Nexus",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/companyLogo/nexus.jpg",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"Nexus is a line of consumer electronic devices that run the Android operating system. Google manages the design, development, marketing, and support of these devices, but some development and all manufacturing are carried out by partnering with original equipment manufacturers (OEMs). As of August 2016, the devices currently available in the line are two smartphones, the Nexus 6P (made with Huawei) and Nexus 5X (made with LG).",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"Noah",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/companyLogo/coop.png",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"Noah Holdings Ltd. provides investment advisory and wealth management services. It offers financial planning consultancy service for Chinese high-net-worth clients. Its products include product development process, products assess & selection, risk control management, and compliance management. ",
+			"type":"innerHTML"
+		}
+	},
+	{
+		"name": {
+			"content":"Smith",
+			"type":"innerHTML"
+		},
+		"image": {
+			"content":"images/companyLogo/smith.png",
+			"type":"imageSrc"
+		},
+		"desc": {
+			"content":"The Smith Company  is a trailblazer. From the start, we broke with tradition and set out to provide far more than the typical “full service” telemarketing firm.",
+			"type":"innerHTML"
+		}
+	}
+]
